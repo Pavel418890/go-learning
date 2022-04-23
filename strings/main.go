@@ -66,4 +66,5 @@ func main() {
 	for i, r := range r2 {
 		fmt.Printf("index: %d rune: %c\n", i, r)
 	}
+
 }
